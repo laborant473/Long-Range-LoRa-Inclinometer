@@ -1,0 +1,21 @@
+# Оставляем только код, остальное игнорируем
+# Временные файлы компиляции
+build/
+bin/
+obj/
+*.elf
+*.hex
+*.bin
+*.out
+
+# Настройки среды разработки (VS Code, Arduino IDE)
+.vscode/
+.arduino/
+.settings/
+local.properties
+
+# Временные файлы системы
+.DS_Store
+Thumbs.db
+*.bak
+*~
